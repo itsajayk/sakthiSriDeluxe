@@ -4,7 +4,7 @@ import databaseIcon from '../assets/img/database.svg';
 import coffeeIcon from '../assets/img/coffee.svg';
 import wifiIcon from '../assets/img/wifi.svg';
 import playIcon from '../assets/img/ant-design_play-circle-filled.svg';
-import videoThumbnail from '../assets/img/Video.jpg';
+import videoThumbnail from '../assets/img/Video.webp';
 
 
 const Enjoy = () => {
