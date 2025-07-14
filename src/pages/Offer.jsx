@@ -1,10 +1,10 @@
 import React from 'react';
-import hotel1 from '../assets/img/1.jpg';
+import hotel1 from '../assets/img/1.webp';
 import hotel2 from '../assets/img/hotel-2.webp';
-import hotel3 from '../assets/img/3.jpg';
-import hotel4Large from '../assets/img/2.jpg';
-import hotel5 from '../assets/img/5.jpg';
-import hotel6 from '../assets/img/6.jpg';
+import hotel3 from '../assets/img/3.webp';
+import hotel4Large from '../assets/img/2.webp';
+import hotel5 from '../assets/img/5.webp';
+import hotel6 from '../assets/img/6.webp';
 import checkIcon from '../assets/img/check-square.svg';
 
 const Offer = () => {
